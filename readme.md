@@ -8,6 +8,9 @@ Install with git
 
 ```bash
   git clone https://github.com/amentobing/Guest-The-Number.git
+```
+
+```bash
   cd Guest-The-Number
 ```
 
